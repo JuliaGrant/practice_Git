@@ -1,0 +1,1 @@
+This project meant exclusively as practice different git commands.
